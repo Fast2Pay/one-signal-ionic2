@@ -1,0 +1,7 @@
+{
+  "name": "OneSignal_Ionic_Example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
